@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar volunter yang diterima:
 * N I F Z, [nfz71](https://github.com/nfz71)
+* HANIF ABDUSY, [hnf71z](https://github.com/hnf71z)
